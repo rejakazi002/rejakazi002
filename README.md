@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Reaj Morshed Reja.
-- My previous GitHub account ( [rejakazi02](https://github.com/rejakazi002/rejakazi002/assets/168950980/4c14d25d-3a97-4f68-8c3f-9d0abaa1eb57) ) was disabled. This is my new account.
+- My previous GitHub account ( [https://github.com/rejakazi02](https://github.com/rejakazi002/rejakazi002/assets/168950980/4c14d25d-3a97-4f68-8c3f-9d0abaa1eb57) ) was disabled. This is my new account.
 <!--- 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
